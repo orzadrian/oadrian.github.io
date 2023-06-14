@@ -4,4 +4,4 @@ My personal CV made with `HTML`, `CSS` and pure `JS`.
 
 ## 🎞 Live preview
 
-[oadrian.github.io](https://oadrian.githut.io/)
+[oadrian.github.io](https://orzadrian.github.io/oadrian.github.io/)
